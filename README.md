@@ -30,11 +30,11 @@ Mathematical problem-solving in ML
 
 Includes diagrams explaining:
 
-# Margin geometry
+Margin geometry
 
-# Hyperplane equations
+Hyperplane equations
 
-# Kernel mapping effect
+Kernel mapping effect
 
 # 🔗 Usage
 
